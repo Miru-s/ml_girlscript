@@ -1,1 +1,1 @@
-# ml_girlscript
+# Machine Learning with GirlScript
